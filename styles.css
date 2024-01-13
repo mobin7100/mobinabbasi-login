@@ -1,6 +1,5 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,7 +7,7 @@ body {
   background-color: #1100ff;
 }
 
-.login-container {
+.login-manage {
   background-color: rgb(255, 0, 0);
   padding: 20px;
   border-radius: 5px;
@@ -17,7 +16,6 @@ body {
 
 .login-form {
   max-width: 300px;
-  margin: 0 auto;
 }
 
 h2 {
@@ -43,7 +41,6 @@ h2 {
 button {
   width: 100%;
   padding: 10px;
-  border: none;
   border-radius: 3px;
   background-color: #007bff;
   color: #fff;
